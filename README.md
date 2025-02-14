@@ -65,7 +65,7 @@ This document serves as a comprehensive reference for all level of developers to
 
 ### Learn More
 - [PEP 8](https://peps.python.org/pep-0008/)
-- [Python Cheatsheet](https://github.com/akshay-bankapure-tcgls/DeveloperGuidelines/python-cheatsheet/)
+- [Python Cheatsheet](https://github.com/akshay-bankapure-tcgls/DeveloperGuidelines/blob/main/python-cheatsheet.md)
 - [Python Best Practices](https://realpython.com/tutorials/best-practices/)
 - [Common Python Mistakes](https://realpython.com/python-mistakes/)
 
