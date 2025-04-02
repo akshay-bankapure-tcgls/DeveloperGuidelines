@@ -13,18 +13,6 @@ Follow these practices for clear, traceable history and stable collaboration.
 - Bug fixes: `bugfix/<issue-description>`
 - Hotfixes: `hotfix/<critical-patch>`
 
-### Commit Message Format
-Follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) standard:
-```
-type(scope): short summary
-
-body (optional)
-```
-Examples:
-- `feat(auth): add JWT token refresh handler`
-- `fix(db): correct NULL constraint error in user model`
-- `chore(deps): bump boto3 from 1.20.0 to 1.21.0`
-
 ### Commit Types
 - `feat`: new feature
 - `fix`: bug fix
@@ -57,6 +45,18 @@ Briefly describe the purpose of this pull request.
 - [ ] This pull request has a related issue
 - [ ] I have followed the coding style guidelines
 ```
+
+### Commit Message Format
+Follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) standard:
+```
+type(scope): short summary
+
+body (optional)
+```
+Examples:
+- `feat(auth): add JWT token refresh handler`
+- `fix(db): correct NULL constraint error in user model`
+- `chore(deps): bump boto3 from 1.20.0 to 1.21.0`
 
 ---
 
