@@ -1,4 +1,4 @@
-# Code Review: Non-Standard Practices and Fixes
+# Code Review
 
 This document highlights **bad coding practices** found in the current version of the lead scoring and summarization pipeline, along with recommended **fixes or refactors**. Use this as a guide for training and improving engineering standards.
 
